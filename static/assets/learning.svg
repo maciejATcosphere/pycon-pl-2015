@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg8431"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="learning.svg">
+  <defs
+     id="defs8433">
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9243-4-7"
+       d="m 501.213,353.2919 c 0,0 11.3293,-38.52811 58.16672,-37.85714 46.45312,0.66547 60.30957,37.85714 60.30957,37.85714"
+       style="fill:none;stroke:#187b18;stroke-width:2.22143054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#187b18;stroke-width:2.22143054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 501.213,353.2919 c 0,0 11.3293,-38.52811 58.16672,-37.85714 46.45312,0.66547 60.30957,37.85714 60.30957,37.85714"
+       id="path9243-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#187b18;stroke-width:2.22143054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 105.74922,381.56715 118.47629,0"
+       id="path9243-7"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9243-4-0"
+       d="m 501.213,353.2919 c 0,0 11.3293,-38.52811 58.16672,-37.85714 46.45312,0.66547 60.30957,37.85714 60.30957,37.85714"
+       style="fill:none;stroke:#187b18;stroke-width:2.22143054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9243-4-0-0"
+       d="m 501.213,353.2919 c 0,0 11.3293,-38.52811 58.16672,-37.85714 46.45312,0.66547 60.30957,37.85714 60.30957,37.85714"
+       style="fill:none;stroke:#187b18;stroke-width:2.22143054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       sodipodi:nodetypes="csc"
+       inkscape:connector-curvature="0"
+       id="path9243-4-70"
+       d="m 501.213,353.2919 c 0,0 11.3293,-38.52811 58.16672,-37.85714 46.45312,0.66547 60.30957,37.85714 60.30957,37.85714"
+       style="fill:none;stroke:#187b18;stroke-width:2.22143054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#272822"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="475.27581"
+     inkscape:cy="444.63073"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid8439"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata8436">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <g
+       id="g9259"
+       transform="matrix(1.012649,0,0,1.012649,-40.013031,-68.253972)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_school_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <path
+         transform="matrix(1,0,0,0.90909091,0,326.82174)"
+         d="m 160,149.09448 c 0,30.37566 -22.38576,55 -50,55 -27.614237,0 -50,-24.62434 -50,-55 0,-30.37566 22.385763,-54.999998 50,-54.999998 27.61424,0 50,24.624338 50,54.999998 z"
+         sodipodi:ry="55"
+         sodipodi:rx="50"
+         sodipodi:cy="149.09448"
+         sodipodi:cx="110"
+         id="path8441"
+         style="fill:#393981;fill-opacity:1;fill-rule:nonzero;stroke:#6868c4;stroke-width:5.2440443;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9213"
+         y="473.73544"
+         x="69.19062"
+         style="font-size:30.72955513px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="fill:#cab8b8;fill-opacity:1"
+           y="473.73544"
+           x="69.19062"
+           id="tspan9215"
+           sodipodi:role="line">DATA</tspan></text>
+    </g>
+    <g
+       id="g9271"
+       transform="matrix(1.012649,0,0,1.012649,-19.760051,-63.190729)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_school_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <path
+         transform="matrix(1,0,0,0.90909091,282.80939,325.44848)"
+         d="m 160,149.09448 c 0,30.37566 -22.38576,55 -50,55 -27.614237,0 -50,-24.62434 -50,-55 0,-30.37566 22.385763,-54.999998 50,-54.999998 27.61424,0 50,24.624338 50,54.999998 z"
+         sodipodi:ry="55"
+         sodipodi:rx="50"
+         sodipodi:cy="149.09448"
+         sodipodi:cx="110"
+         id="path8441-9"
+         style="fill:#393981;fill-opacity:1;fill-rule:nonzero;stroke:#6868c4;stroke-width:5.2440443;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9213-0"
+         y="472.36218"
+         x="350"
+         style="font-size:30.72955513px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="fill:#cab8b8;fill-opacity:1"
+           y="472.36218"
+           x="350"
+           id="tspan9215-5"
+           sodipodi:role="line">GOAL</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#187b18;stroke-width:3.03794718;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 137.92386,402.84991 162.02383,0"
+       id="path9243"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_school_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:#007700;fill-opacity:1;stroke:#187b18;stroke-width:2.02529812;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 290.32753,392.21709 20.25298,10.12649 -20.25298,10.12649 z"
+       id="path9245"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_school_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <text
+       xml:space="preserve"
+       style="font-size:29.61907196px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#187b18;fill-opacity:1;stroke:none;font-family:Sans"
+       id="text9247"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_school_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431"><textPath
+         xlink:href="#path9243"
+         id="textPath9640"
+         style="font-size:14.80953598px;fill:#0fc30f;fill-opacity:1">    LEARNING</textPath></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9336"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion9338"><rect
+           id="rect9340"
+           width="510"
+           height="150.71428"
+           x="-22.857143"
+           y="164.09448" /></flowRegion><flowPara
+         id="flowPara9342"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40.50595856px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="29.425755"
+       y="493.98831"
+       id="text9344"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9346"
+         x="29.425755"
+         y="493.98831"
+         style="font-size:20.25297928px">examples:</tspan><tspan
+         sodipodi:role="line"
+         x="29.425755"
+         y="519.30457"
+         id="tspan9348"
+         style="font-size:20.25297928px">   DATA: new words in french</tspan><tspan
+         sodipodi:role="line"
+         x="29.425755"
+         y="544.62073"
+         id="tspan9385"
+         style="font-size:20.25297928px">   LEARNING: remembering the words</tspan><tspan
+         sodipodi:role="line"
+         x="29.425755"
+         y="569.93701"
+         id="tspan9352"
+         style="font-size:20.25297928px">   GOAL: getting high score on vocabulary test</tspan><tspan
+         sodipodi:role="line"
+         x="29.425755"
+         y="595.25323"
+         id="tspan9389"
+         style="font-size:20.25297928px">   ---</tspan><tspan
+         sodipodi:role="line"
+         x="29.425755"
+         y="620.5694"
+         id="tspan9398"
+         style="font-size:20.25297928px">   DATA: technical specs</tspan><tspan
+         sodipodi:role="line"
+         x="29.425755"
+         y="645.88562"
+         id="tspan9400"
+         style="font-size:20.25297928px">   LEARNING: TDD</tspan><tspan
+         sodipodi:role="line"
+         x="29.425755"
+         y="671.2019"
+         id="tspan9402"
+         style="font-size:20.25297928px">   GOAL: pass the specs</tspan><tspan
+         sodipodi:role="line"
+         x="29.425755"
+         y="696.51813"
+         id="tspan9391"
+         style="font-size:20.25297928px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="88.571426"
+       y="269.09448"
+       id="text9354"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.2677)"><tspan
+         sodipodi:role="line"
+         id="tspan9356"
+         x="88.571426"
+         y="269.09448" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="52.857143"
+       y="397.66592"
+       id="text9358"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.2677)"><tspan
+         sodipodi:role="line"
+         x="52.857143"
+         y="397.66592"
+         id="tspan9364" /></text>
+    <g
+       id="g9259-8"
+       transform="matrix(1.012649,0,0,1.012649,524.25269,-18.714328)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_tdd_like_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <path
+         transform="matrix(1,0,0,0.90909091,0,326.82174)"
+         d="m 160,149.09448 c 0,30.37566 -22.38576,55 -50,55 -27.614237,0 -50,-24.62434 -50,-55 0,-30.37566 22.385763,-54.999998 50,-54.999998 27.61424,0 50,24.624338 50,54.999998 z"
+         sodipodi:ry="55"
+         sodipodi:rx="50"
+         sodipodi:cy="149.09448"
+         sodipodi:cx="110"
+         id="path8441-95"
+         style="fill:#393981;fill-opacity:1;fill-rule:nonzero;stroke:#6868c4;stroke-width:5.2440443;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9213-1"
+         y="473.73544"
+         x="69.19062"
+         style="font-size:30.72955513px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="fill:#cab8b8;fill-opacity:1"
+           y="473.73544"
+           x="69.19062"
+           id="tspan9215-4"
+           sodipodi:role="line">DATA</tspan></text>
+    </g>
+    <g
+       id="g9271-4"
+       transform="matrix(1.012649,0,0,1.012649,467.92213,-11.209012)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_tdd_like_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <path
+         transform="matrix(1,0,0,0.90909091,282.80939,325.44848)"
+         d="m 160,149.09448 c 0,30.37566 -22.38576,55 -50,55 -27.614237,0 -50,-24.62434 -50,-55 0,-30.37566 22.385763,-54.999998 50,-54.999998 27.61424,0 50,24.624338 50,54.999998 z"
+         sodipodi:ry="55"
+         sodipodi:rx="50"
+         sodipodi:cy="149.09448"
+         sodipodi:cx="110"
+         id="path8441-9-9"
+         style="fill:#393981;fill-opacity:1;fill-rule:nonzero;stroke:#6868c4;stroke-width:5.2440443;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9213-0-6"
+         y="472.36218"
+         x="350"
+         style="font-size:30.72955513px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="fill:#cab8b8;fill-opacity:1"
+           y="472.36218"
+           x="350"
+           id="tspan9215-5-8"
+           sodipodi:role="line">GOAL</tspan></text>
+    </g>
+    <g
+       id="g9715"
+       transform="matrix(1.3675634,0,0,1.3675634,-19.784441,-92.788285)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_tdd_like_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path9243-4"
+         d="m 501.213,353.2919 c 0,0 11.3293,-38.52811 58.16672,-37.85714 46.45312,0.66547 60.30957,37.85714 60.30957,37.85714"
+         style="fill:none;stroke:#187b18;stroke-width:2.22143054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9245-9"
+         d="m 624.10638,345.04564 0.43917,16.55174 -13.5049,-9.57971 z"
+         style="fill:#007700;fill-opacity:1;stroke:#187b18;stroke-width:1.48095369;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9247-5"
+         style="font-size:29.61907196px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#187b18;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><textPath
+           style="font-size:14.80953598px;fill:#0fc30f;fill-opacity:1"
+           id="textPath9562"
+           xlink:href="#path9243-4">        LEARNING</textPath></text>
+    </g>
+    <g
+       id="g9715-4"
+       transform="matrix(-1.3675634,0,0,-1.3675634,1515.6585,1002.1362)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_tdd_like_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path9767"
+         d="m 501.213,353.2919 c 0,0 11.3293,-38.52811 58.16672,-37.85714 46.45312,0.66547 60.30957,37.85714 60.30957,37.85714"
+         style="fill:none;stroke:#187b18;stroke-width:2.22143054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9245-9-2"
+         d="m 624.10638,345.04564 0.43917,16.55174 -13.5049,-9.57971 z"
+         style="fill:#007700;fill-opacity:1;stroke:#187b18;stroke-width:1.48095369;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9247-5-7"
+         style="font-size:29.61907196px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#187b18;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><textPath
+           style="font-size:14.80953598px;fill:#0fc30f;fill-opacity:1"
+           id="textPath9562-4"
+           xlink:href="#path9243-4-0">        LEARNING</textPath></text>
+    </g>
+    <g
+       id="g9909"
+       transform="matrix(1.3675634,0,0,1.3675634,-6.6949047,-97.086341)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_state_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <path
+         transform="matrix(0.74047682,0,0,0.67316075,392.04009,547.18097)"
+         d="m 160,149.09448 c 0,30.37566 -22.38576,55 -50,55 -27.614237,0 -50,-24.62434 -50,-55 0,-30.37566 22.385763,-54.999998 50,-54.999998 27.61424,0 50,24.624338 50,54.999998 z"
+         sodipodi:ry="55"
+         sodipodi:rx="50"
+         sodipodi:cy="149.09448"
+         sodipodi:cx="110"
+         id="path8441-95-1"
+         style="fill:#393981;fill-opacity:1;fill-rule:nonzero;stroke:#6868c4;stroke-width:5.2440443;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <rect
+         y="631.23077"
+         x="402.09088"
+         height="33.691338"
+         width="132.24683"
+         id="rect9871-2"
+         style="fill:#393981;fill-opacity:1;fill-rule:nonzero;stroke:#6868c4;stroke-width:3.34569812;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9213-1-0"
+         y="655.96716"
+         x="407.27414"
+         style="font-size:22.75452232px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="fill:#cab8b8;fill-opacity:1"
+           y="655.96716"
+           x="407.27414"
+           id="tspan9215-4-2"
+           sodipodi:role="line">PRE-STATE</tspan></text>
+    </g>
+    <g
+       id="g9915"
+       transform="matrix(1.3675634,0,0,1.3675634,-14.900285,-102.55659)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_state_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <path
+         transform="matrix(0.74047682,0,0,0.67316075,560.26343,551.65221)"
+         d="m 160,149.09448 c 0,30.37566 -22.38576,55 -50,55 -27.614237,0 -50,-24.62434 -50,-55 0,-30.37566 22.385763,-54.999998 50,-54.999998 27.61424,0 50,24.624338 50,54.999998 z"
+         sodipodi:ry="55"
+         sodipodi:rx="50"
+         sodipodi:cy="149.09448"
+         sodipodi:cx="110"
+         id="path8441-9-9-3"
+         style="fill:#393981;fill-opacity:1;fill-rule:nonzero;stroke:#6868c4;stroke-width:5.24350023;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <rect
+         y="636.0799"
+         x="568.61646"
+         height="33.533962"
+         width="145.66089"
+         id="rect9871"
+         style="fill:#393981;fill-opacity:1;fill-rule:nonzero;stroke:#6868c4;stroke-width:3.50307059;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9213-0-6-6"
+         y="660.43842"
+         x="576.01654"
+         style="font-size:22.75452232px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="fill:#cab8b8;fill-opacity:1"
+           y="660.43842"
+           x="576.01654"
+           id="tspan9215-5-8-5"
+           sodipodi:role="line">POST-STATE</tspan></text>
+    </g>
+    <g
+       id="g9715-3"
+       transform="matrix(1.3675634,0,0,1.3675634,-17.522861,240.13232)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_state_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path9810"
+         d="m 501.213,353.2919 c 0,0 11.3293,-38.52811 58.16672,-37.85714 46.45312,0.66547 60.30957,37.85714 60.30957,37.85714"
+         style="fill:none;stroke:#187b18;stroke-width:2.22143054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9245-9-7"
+         d="m 624.10638,345.04564 0.43917,16.55174 -13.5049,-9.57971 z"
+         style="fill:#007700;fill-opacity:1;stroke:#187b18;stroke-width:1.48095369;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9247-5-5"
+         style="font-size:29.61907196px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#187b18;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><textPath
+           style="font-size:14.80953598px;fill:#0fc30f;fill-opacity:1"
+           id="textPath9562-0"
+           xlink:href="#path9243-4-70">        LEARNING</textPath></text>
+    </g>
+    <g
+       id="g9715-4-7"
+       transform="matrix(-1.3675634,0,0,-1.3675634,1523.3904,1337.5966)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/rubik/.research/learning_state_machine.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path9767-7"
+         d="m 501.213,353.2919 c 0,0 11.3293,-38.52811 58.16672,-37.85714 46.45312,0.66547 60.30957,37.85714 60.30957,37.85714"
+         style="fill:none;stroke:#187b18;stroke-width:2.22143054;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9245-9-2-8"
+         d="m 624.10638,345.04564 0.43917,16.55174 -13.5049,-9.57971 z"
+         style="fill:#007700;fill-opacity:1;stroke:#187b18;stroke-width:1.48095369;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text9247-5-7-1"
+         style="font-size:29.61907196px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#187b18;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><textPath
+           style="font-size:14.80953598px;fill:#0fc30f;fill-opacity:1"
+           id="textPath9562-4-0"
+           xlink:href="#path9243-4-0-0">        LEARNING</textPath></text>
+    </g>
+  </g>
+</svg>

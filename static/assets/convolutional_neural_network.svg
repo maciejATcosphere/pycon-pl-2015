@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="convolutional_neural_network.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#272822"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="444.56709"
+     inkscape:cy="277.9208"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <path
+       style="fill:none;stroke:#fbf5f5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 50,634.09448 80,-120 80,120"
+       id="path3993"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#fbf5f5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 210,634.09448 70,-120 80,120"
+       id="path3995"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#fbf5f5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 360,634.09448 80,-120 80,120"
+       id="path3997"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#fbf5f5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 520,634.09448 70,-120 80,120"
+       id="path3999"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#fbf5f5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 130,514.09448 90,-120 60,120"
+       id="path4001"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#fbf5f5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 440,514.09448 70,-120 80,120"
+       id="path4003"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#fbf5f5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 220,394.09448 140,-100"
+       id="path4023"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#fbf5f5;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 510,394.09448 -150,-100 0,0"
+       id="path4025"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#818154;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:2.83333335;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2987"
+       sodipodi:cx="200"
+       sodipodi:cy="604.09448"
+       sodipodi:rx="40"
+       sodipodi:ry="40"
+       d="m 240,604.09448 a 40,40 0 1 1 -80,0 40,40 0 1 1 80,0 z"
+       transform="matrix(0.70588235,0,0,0.70588235,-91.17647,514.51397)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#818154;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:2.83333335;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2987-2"
+       sodipodi:cx="200"
+       sodipodi:cy="604.09448"
+       sodipodi:rx="40"
+       sodipodi:ry="40"
+       d="m 240,604.09448 a 40,40 0 1 1 -80,0 40,40 0 1 1 80,0 z"
+       transform="matrix(0.70588235,0,0,0.70588235,64.82353,514.51397)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#818154;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:2.83333335;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2987-6"
+       sodipodi:cx="200"
+       sodipodi:cy="604.09448"
+       sodipodi:rx="40"
+       sodipodi:ry="40"
+       d="m 240,604.09448 a 40,40 0 1 1 -80,0 40,40 0 1 1 80,0 z"
+       transform="matrix(0.70588235,0,0,0.70588235,220.82353,514.51397)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#818154;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:2.83333335;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2987-3"
+       sodipodi:cx="200"
+       sodipodi:cy="604.09448"
+       sodipodi:rx="40"
+       sodipodi:ry="40"
+       d="m 240,604.09448 a 40,40 0 1 1 -80,0 40,40 0 1 1 80,0 z"
+       transform="matrix(0.70588235,0,0,0.70588235,376.82353,514.51397)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#818154;fill-opacity:1;fill-rule:nonzero;stroke:#333333;stroke-width:2.83333335;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2987-5"
+       sodipodi:cx="200"
+       sodipodi:cy="604.09448"
+       sodipodi:rx="40"
+       sodipodi:ry="40"
+       d="m 240,604.09448 a 40,40 0 1 1 -80,0 40,40 0 1 1 80,0 z"
+       transform="matrix(0.70588235,0,0,0.70588235,532.82353,514.51397)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <rect
+       style="fill:#5669c1;fill-opacity:1;fill-rule:nonzero;stroke:#1933b6;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3803"
+       width="60"
+       height="60"
+       x="98"
+       y="792.36218"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <rect
+       style="fill:#5669c1;fill-opacity:1;fill-rule:nonzero;stroke:#1933b6;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3803-5"
+       width="60"
+       height="60"
+       x="253"
+       y="792.36218"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <rect
+       style="fill:#5669c1;fill-opacity:1;fill-rule:nonzero;stroke:#1933b6;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3803-3"
+       width="60"
+       height="60"
+       x="408"
+       y="792.36218"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <rect
+       style="fill:#5669c1;fill-opacity:1;fill-rule:nonzero;stroke:#1933b6;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3803-7"
+       width="60"
+       height="60"
+       x="563"
+       y="792.36218"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <g
+       id="g3927"
+       transform="translate(2.666718,13.065063)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <rect
+         y="673.33264"
+         x="178.97044"
+         height="38.908764"
+         width="80.075607"
+         id="rect3803-36"
+         style="fill:#c15685;fill-opacity:1;fill-rule:nonzero;stroke:#d01368;stroke-width:1.3403157;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3862"
+         y="699.29712"
+         x="190"
+         style="font-size:26.80631447px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffeaea;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="699.29712"
+           x="190"
+           id="tspan3864"
+           sodipodi:role="line">max</tspan></text>
+    </g>
+    <g
+       id="g3917"
+       transform="translate(-20.666626,13.065063)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431">
+      <rect
+         y="673.33264"
+         x="488.97046"
+         height="38.908764"
+         width="80.075607"
+         id="rect3803-36-1"
+         style="fill:#c15685;fill-opacity:1;fill-rule:nonzero;stroke:#d01368;stroke-width:1.3403157;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3862-5"
+         y="699.29712"
+         x="500"
+         style="font-size:26.80631447px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffeaea;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="699.29712"
+           x="500"
+           id="tspan3864-0"
+           sodipodi:role="line">max</tspan></text>
+    </g>
+    <rect
+       style="fill:#2d934a;fill-opacity:1;fill-rule:nonzero;stroke:#19b644;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3803-37"
+       width="60"
+       height="60"
+       x="328"
+       y="572.36218"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/convolutional_neural_network.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+  </g>
+</svg>

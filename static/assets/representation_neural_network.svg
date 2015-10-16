@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="representation_neural_network.svg"
+   inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_netural_network.png"
+   inkscape:export-xdpi="90.007431"
+   inkscape:export-ydpi="90.007431">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#272822"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="530.5487"
+     inkscape:cy="398.67012"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2987"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 102.85714,582.36218 200,-190"
+       id="path3961"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,492.36218 -200,90"
+       id="path3963"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,612.36218 -200,-30"
+       id="path3965"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,722.36218 -200,-140"
+       id="path3967"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,832.36218 -200,-250"
+       id="path3969"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,942.36218 -200,-360"
+       id="path3971"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,392.36218 -200,390"
+       id="path3973"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,492.36218 -200,290"
+       id="path3975"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,612.36218 -200,170"
+       id="path3977"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,722.36218 -200,60"
+       id="path3979"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,832.36218 -200,-50"
+       id="path3981"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,942.36218 -200,-160"
+       id="path3983"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 502.85714,582.36218 -200,-190 0,0"
+       id="path3985"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,492.36218 200,90"
+       id="path3987"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,612.36218 200,-30"
+       id="path3989"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,722.36218 200,-140"
+       id="path3991"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,832.36218 200,-250"
+       id="path3993"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,942.36218 200,-360"
+       id="path3995"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,942.36218 200,-160 -200,50"
+       id="path3997"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 502.85714,782.36218 -200,-60"
+       id="path3999"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,612.36218 200,170 0,0"
+       id="path4001"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,492.36218 200,290"
+       id="path4003"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 302.85714,392.36218 200,390 0,0"
+       id="path4005"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 702.85714,582.36218 -200,200"
+       id="path4007"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 502.85714,582.36218 200,0"
+       id="path4009"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 702.85714,782.36218 -200,0"
+       id="path4011"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       style="fill:none;stroke:#eeeeee;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 502.85714,582.36218 200,200"
+       id="path4013"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4d8450;fill-opacity:1;fill-rule:nonzero;stroke:#85bc8d;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,-106.65718,316.17126)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4d8450;fill-opacity:1;fill-rule:nonzero;stroke:#85bc8d;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-6"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,-106.65718,516.17126)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#22629b;fill-opacity:1;fill-rule:nonzero;stroke:#3980c1;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-9"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,93.342823,229.30324)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#22629b;fill-opacity:1;fill-rule:nonzero;stroke:#3980c1;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-9-1"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,93.342823,343.11529)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#22629b;fill-opacity:1;fill-rule:nonzero;stroke:#3980c1;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-9-1-8"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,93.342823,455.24223)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#22629b;fill-opacity:1;fill-rule:nonzero;stroke:#3980c1;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-9-1-8-0"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,93.342823,566.359)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#22629b;fill-opacity:1;fill-rule:nonzero;stroke:#3980c1;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-9-1-8-0-8"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,93.342823,131.99341)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#22629b;fill-opacity:1;fill-rule:nonzero;stroke:#3980c1;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-9-1-8-8"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,93.342823,679.49609)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#22629b;fill-opacity:1;fill-rule:nonzero;stroke:#3980c1;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-9-1-8-0-8-3"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,293.34282,316.17126)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#22629b;fill-opacity:1;fill-rule:nonzero;stroke:#3980c1;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-9-1-8-0-8-1"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,293.34282,516.17126)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c1c139;fill-opacity:1;fill-rule:nonzero;stroke:#c19b39;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-9-1-8-0-8-3-1"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,493.34282,316.17126)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c1c139;fill-opacity:1;fill-rule:nonzero;stroke:#c19b39;stroke-width:2.0999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-9-1-8-0-8-3-3"
+       sodipodi:cx="212.14285"
+       sodipodi:cy="249.80876"
+       sodipodi:rx="29.285715"
+       sodipodi:ry="27.142857"
+       d="m 241.42857,249.80876 a 29.285715,27.142857 0 1 1 -58.57143,0 29.285715,27.142857 0 1 1 58.57143,0 z"
+       transform="matrix(0.98760961,0,0,1.0655788,493.34282,516.17126)"
+       inkscape:export-filename="/home/maciej/projects/good-ai/present/present/static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png"
+       inkscape:export-xdpi="90.007431"
+       inkscape:export-ydpi="90.007431" />
+  </g>
+</svg>

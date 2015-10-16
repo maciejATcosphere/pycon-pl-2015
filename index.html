@@ -1,0 +1,625 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+        <title>Humans' Deep Learning for Humans</title>
+
+        <link rel="stylesheet"
+              href="../static/vendor/reveal.js/css/reveal.css">
+        <link rel="stylesheet"
+              href="../static/vendor/reveal.js/css/theme/black.css"
+              id="theme">
+        <link rel="stylesheet" href="../static/vendor/KaTeX/dist/katex.min.css">
+
+        <script type="text/javascript"
+                src="../static/vendor/jquery/dist/jquery.min.js"></script>
+        <script type="text/javascript"
+                src="../static/vendor/underscore/underscore-min.js"></script>
+        <script type="text/javascript"
+                src="../static/vendor/KaTeX/dist/katex.min.js"></script>
+        <!--<script id="template" type="text/template">
+            <div class="reveal">
+                <div class="slides">
+                    <% for (var i = 0 ; i < slides.length ; i++) { %>
+                    <section>
+                        <%= slides[i] %>
+                    </section>
+                    <% } %>
+                </div>
+            </div>
+        </script>-->
+        <script src="../static/vendor/reveal.js/lib/js/head.min.js"></script>
+        <script src="../static/vendor/reveal.js/js/reveal.js"></script>
+        <script type="text/javascript">
+            function eq(equation, id) {
+                element = document.getElementById(id);
+                katex.render(equation, element);
+            }
+        </script>
+
+        <!--
+        <script type="text/javascript"
+                src="../static/js/app.js"></script>
+        -->
+        <style type="text/css">
+            body {
+                background-color: #272822;
+            }
+            .reveal section img {
+                border: none;
+                box-shadow: none;
+            }
+            .reveal section h3 {
+                text-transform: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="reveal">
+            <div class="slides">
+
+                <section data-background-video="../static/PyConPL_2015_assets/brain.mp4,../static/PyConPL_2015_assets/brain.webm"
+                         data-background-video-loop="loop">
+                    <h1>Humans' Deep Learning for Humans</h1>
+                    <p>
+                        <small>Created by Maciej Sobczak</small>
+                    </p>
+                </section>
+
+
+                <section>
+                    <h3>deep + learning (learnable) + human</h3>
+                </section>
+
+
+                <section>
+                    <h3>
+                        learning?
+                    </h3>
+                </section>
+
+
+                <section>
+                    <img data-src="../static/PyConPL_2015_assets/learning_school_machine.png">
+                </section>
+
+
+                <section>
+                    <dl>
+                        <dt>DATA</dt>
+                        <dd>new words in French</dd>
+
+                        <dt>LEARNING</dt>
+                        <dd>remembering the words</dd>
+
+                        <dt>GOAL</dt>
+                        <dd>getting high score on vocabulary test</dd>
+                    </dl>
+                </section>
+
+
+                <section>
+                    <dl>
+                        <dt>DATA</dt>
+                        <dd>technical specs</dd>
+
+                        <dt>LEARNING</dt>
+                        <dd>TDD</dd>
+
+                        <dt>GOAL</dt>
+                        <dd>pass the specs</dd>
+                    </dl>
+                </section>
+
+
+                <section>
+                    <img data-src="../static/PyConPL_2015_assets/learning_tdd_like_machine.png">
+                </section>
+
+
+                <section>
+                    <h3>
+                        human?
+                    </h3>
+                </section>
+
+
+                <section>
+                    <img data-src="../static/PyConPL_2015_assets/learning_state_machine.png">
+                </section>
+
+
+                <section>
+                    <h3>data = neural network</h3>
+                </section>
+
+
+                <!--
+                PAC
+                -->
+                <section>
+                    <h3>
+                        learnable?
+                    </h3>
+                </section>
+
+                <section>
+                    <p style="text-align: left; padding: 10px;">
+                        <i>All generalizations are false, including this one.</i>
+                    </p>
+                    <p style="text-align: right;">
+                        Mark Twain
+                    </p>
+                </section>
+
+
+                <section>
+                    <img height="500px" data-src="../static/PyConPL_2015_assets/probably_approximately_correct.jpg">
+                </section>
+
+                <section>
+                    <h3>the environment and generalization</h3>
+                    <p>
+                        The acquired <i>skills</i> should be useful also in the situations <i>not encountered</i> during the learning phase.
+                    </p>
+                </section>
+
+
+                <section>
+                    <h3>when generalization can occur?</h3>
+                    <ul>
+                        <li class="fragment">Invariance Assumption</li>
+                        <li class="fragment">Learnable Regularity Assumption (detectable + detection algorithm is feasible)</li>
+                    </ul>
+                </section>
+
+
+                <section>
+                    <figure>
+                        <img data-src="../static/PyConPL_2015_assets/marble_introductions.png">
+                        <figcaption>Marble world - adapted from: <a href="http://www.probablyapproximatelycorrect.com/">Probably Approximately Correct</a></figcaption>
+                    </figure>
+                </section>
+
+
+                <section>
+                    <div style="width: 50%; float: left;">
+                        <figure>
+                            <img data-src="../static/PyConPL_2015_assets/marble_assumptions_equal.png">
+                            <figcaption>adapted from: <a href="http://www.probablyapproximatelycorrect.com/">Probably Approximately Correct</a></figcaption>
+                        </figure>
+                    </div>
+                    <div style="width: 50%; float: right;">
+                        <p>
+                            <div id="equation-probability-1"></div>
+                            <div id="equation-probability-2"></div>
+                            <div id="equation-probability-3"></div>
+
+                            <div id="equation-probability-4"></div>
+                            <div id="equation-probability-5"></div>
+                            <div id="equation-probability-6"></div>
+
+                            <br>
+                            ...
+                        </p>
+                        <script type="text/javascript">
+                            eq(
+                                "P(no \\: 1s \\: in \\: 100 \\: picks) \\approx",
+                                "equation-probability-1");
+                            eq(
+                                "\\approx 2 \\times 10^{-10} =",
+                                "equation-probability-2");
+                            eq(
+                                "= \\frac{2}{10000000000}",
+                                "equation-probability-3");
+                            eq(
+                                "P(no \\: 3s \\: in \\: 100 \\: picks) \\approx",
+                                "equation-probability-4");
+                            eq(
+                                "2 \\times 10^{-10} =",
+                                "equation-probability-5");
+                            eq(
+                                "= \\frac{2}{10000000000}",
+                                "equation-probability-6");
+
+                        </script>
+                    </div>
+                </section>
+
+                <section>
+                    <figure>
+                        <img data-src="../static/PyConPL_2015_assets/marble_extreme_mono.png">
+                        <figcaption>Mono world - adapted from: <a href="http://www.probablyapproximatelycorrect.com/">Probably Approximately Correct</a></figcaption>
+                    </figure>
+                </section>
+
+                <section>
+                    <figure>
+                        <img data-src="../static/PyConPL_2015_assets/marble_extreme_rare.png">
+                        <figcaption>Rare world - adapted from: <a href="http://www.probablyapproximatelycorrect.com/">Probably Approximately Correct</a></figcaption>
+                    </figure>
+                </section>
+
+
+                <section>
+                    <div style="width: 50%; float: left;">
+                        <figure>
+                            <img data-src="../static/PyConPL_2015_assets/marble_assumptions_1_to_4.png">
+                            <figcaption>adapted from: <a href="http://www.probablyapproximatelycorrect.com/">Probably Approximately Correct</a></figcaption>
+                        </figure>
+                    </div>
+                    <div style="width: 50%; float: right;">
+                        <p>
+                            <i>97%</i> confidence that after <i>100</i> picks one can see representative of <i>80%</i> of the contents of the urn.
+                        </p>
+                    </div>
+                </section>
+
+                <section>
+                    <h3>animal vs plant</h3>
+                    <dl>
+                        <dt>features (20)</dt>
+                        <dd>has ears, has leaves, is blue ...</dd>
+                        <dt>number of species</dt>
+                        <dd>1048576 (exponentially many!)</dd>
+                    </dl>
+                </section>
+
+                <section>
+                    <dl>
+                        <dt>learnable</dt>
+                        <dd>
+                            <i>algorithm should learn from a number of examples that is polynomial in the number of the features and one can control the error, and insist that this control be again polynomial</i>
+                        </dd>
+                    </dl>
+                    <p class="fragment" style="text-align: left; color: yellow;">
+                        only certain (very limited) classes of functions can fulfil the above (linear separator and conjuctions).
+                    </p>
+                </section>
+
+                <section>
+                    <dl>
+                        <dt>PAC</dt>
+                        <dd>
+                            <ul>
+                                <li>learning process takes limited number of steps</li>
+                                <li>the computation requires only limited number of interactions with the world</li>
+                                <li>learning leads to categorization with small error rate</li>
+                            </ul>
+                        </dd>
+                    </dl>
+                </section>
+
+                <section>
+                    <h3>teacher</h3>
+                </section>
+
+                <section>
+                    <h3>evolution = learning?</h3>
+                </section>
+
+                <section>
+                    <h3>why the world around us is learnable?</h3>
+                </section>
+
+                <!--
+                Blondie 24
+                -->
+
+                <section>
+                    <h3>
+                        breeding the intelligent systems = neuroevolution
+                    </h3>
+                </section>
+
+
+                <section>
+                    <img height="500px" data-src="../static/PyConPL_2015_assets/blondie24.jpg">
+                </section>
+
+
+                <section>
+                    <figure>
+                        <img height="500px" data-src="../static/PyConPL_2015_assets/travelling_salesman.png">
+                        <figcaption>Travelling Salesman!</figcaption>
+                    </figure>
+                </section>
+
+
+                <section>
+                    <img data-src="../static/PyConPL_2015_assets/initial_population.png">
+                </section>
+
+
+                <section>
+                    <video data-autoplay>
+                        <source src="../static/PyConPL_2015_assets/evolution.mp4" type="video/mp4">
+                    </video>
+                </section>
+
+
+                <section>
+                    <video data-autoplay>
+                        <source src="../static/PyConPL_2015_assets/rubik_solution.mp4" type="video/mp4">
+                    </video>
+                </section>
+
+
+                <!--
+                Backpropagation
+                -->
+                <section>
+                    <h3>
+                        deep?
+                    </h3>
+                </section>
+
+
+                <section>
+                    <h3>backpropagation</h3>
+                </section>
+
+
+                <section>
+                    <h3>
+                        e = (2a + b)(a - b + 4)
+                    </h3>
+                </section>
+
+
+                <section>
+                    <figure>
+                        <img data-src="../static/PyConPL_2015_assets/backpropagation_computational_graph.png">
+                        <figcaption>adapted from: <a href="https://colah.github.io/posts/2015-08-Backprop/">colah's blog</a></figcaption>
+                    </figure>
+                </section>
+
+
+                <section>
+                    <figure>
+                        <img data-src="../static/PyConPL_2015_assets/backpropagation_derivatives.png">
+                        <figcaption>adapted from: <a href="https://colah.github.io/posts/2015-08-Backprop/">colah's blog</a></figcaption>
+                    </figure>
+                </section>
+
+
+                <section>
+                    <figure>
+                        <img data-src="../static/PyConPL_2015_assets/backpropagation_all.png">
+                        <figcaption>adapted from: <a href="https://colah.github.io/posts/2015-08-Backprop/">colah's blog</a></figcaption>
+                    </figure>
+                </section>
+
+
+                <!--
+                Deep Learning
+                -->
+                <section>
+                    <h3>
+                        deep representations?
+                    </h3>
+                </section>
+
+
+                <!-- INPUT LATER -->
+                <section>
+                    <div style="height: 500px; width: 50%; float: left;">
+                        <img data-src="../static/PyConPL_2015_assets/representation_circle_data_input_layer.png">
+                    </div>
+                    <div style="height: 500px; width: 50%; float: right;">
+                        <img data-src="../static/PyConPL_2015_assets/representation_netural_network.png">
+                    </div>
+                    <div>adapted from: <a href="http://cs.stanford.edu/people/karpathy/convnetjs//demo/classify2d.html">Andrej Karpathy's demo</a></div>
+                </section>
+
+                <!-- 1ST LATER -->
+                <section>
+                    <div style="height: 500px;">
+                        <div style="width: 50%; float: left;">
+                            <img height="250px" data-src="../static/PyConPL_2015_assets/representation_circle_data_input_layer.png">
+                            <img height="250px" data-src="../static/PyConPL_2015_assets/representation_neural_network_1st_layer_activated.png">
+                        </div>
+                        <div style="width: 50%; float: right;">
+                            <img height="500px" data-src="../static/PyConPL_2015_assets/representation_circle__1st_layer_fc_6.png">
+                        </div>
+                    </div>
+                </section>
+
+
+                <section>
+                    <div style="height: 500px;">
+                        <div style="width: 50%; float: left;">
+                            <img height="250px" data-src="../static/PyConPL_2015_assets/representation_circle_data_input_layer.png">
+                            <img height="250px" data-src="../static/PyConPL_2015_assets/representation_neural_network_1st_layer_activated.png">
+                        </div>
+                        <div style="width: 50%; float: right;">
+                            <img height="500px" data-src="../static/PyConPL_2015_assets/representation_circle__1st_layer_tanh_6.png">
+                        </div>
+                    </div>
+                </section>
+
+                <!-- 2ND LATER -->
+                <section>
+                    <div style="height: 500px;">
+                        <div style="width: 50%; float: left;">
+                            <img height="250px" data-src="../static/PyConPL_2015_assets/representation_circle_data_input_layer.png">
+                            <img height="250px" data-src="../static/PyConPL_2015_assets/representation_neural_network_2nd_layer_activated.png">
+                        </div>
+                        <div style="width: 50%; float: right;">
+                            <img height="500px" data-src="../static/PyConPL_2015_assets/representation_circle__2nd_layer_fc_2.png">
+                        </div>
+                    </div>
+                </section>
+
+
+                <section>
+                    <div style="height: 500px;">
+                        <div style="width: 50%; float: left;">
+                            <img height="250px" data-src="../static/PyConPL_2015_assets/representation_circle_data_input_layer.png">
+                            <img height="250px" data-src="../static/PyConPL_2015_assets/representation_neural_network_2nd_layer_activated.png">
+                        </div>
+                        <div style="width: 50%; float: right;">
+                            <img height="500px" data-src="../static/PyConPL_2015_assets/representation_circle__2nd_layer_tanh_2.png">
+                        </div>
+                    </div>
+                </section>
+
+
+                <!-- OUTPUT LATER -->
+                <section>
+                    <div style="height: 500px;">
+                        <div style="width: 50%; float: left;">
+                            <img height="250px" data-src="../static/PyConPL_2015_assets/representation_circle_data_input_layer.png">
+                            <img height="250px" data-src="../static/PyConPL_2015_assets/representation_neural_network_output_layer_activated.png">
+                        </div>
+                        <div style="width: 50%; float: right;">
+                            <img height="500px" data-src="../static/PyConPL_2015_assets/representation_circle_data_output_layer.png">
+                        </div>
+                    </div>
+                </section>
+
+
+                <section>
+                    <h3>can the representation be useful on its own?</h3>
+                </section>
+
+
+                <section>
+                    <h3>image embeddings</h3>
+                    <video height="500px" data-autoplay>
+                        <source src="../static/PyConPL_2015_assets/cnn_codes_visualization.mp4" type="video/mp4">
+                    </video>
+                    <div>adapted from: <a href="http://cs.stanford.edu/people/karpathy/cnnembed/">Andrej Karpathy's cnn embedding</a></div>
+
+                </section>
+
+
+                <section>
+                    <h3>word embeddings</h3>
+                    <video data-autoplay>
+                        <source src="../static/PyConPL_2015_assets/word_embeddings.mp4" type="video/mp4">
+                    </video>
+                    <div>adapted from: <a href="http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/">colah's blog</a></div>
+                </section>
+
+                <section>
+                    <h3>
+                        human?
+                    </h3>
+                </section>
+
+
+                <section>
+                    <figure>
+                        <img data-src="../static/PyConPL_2015_assets/convolutional_neural_network.png">
+                        <figcaption>adapted from: <a href="https://colah.github.io/posts/2014-07-Conv-Nets-Modular/">colah's blog</a></figcaption>
+                    </figure>
+                </section>
+                <!--
+                    Foreign language acquisition
+                -->
+
+                <section>
+                    <h3>use case: foreign language acquisition</h3>
+                    <ul>
+                        <li class="fragment">hierarchically driven: phonemes, chunking, words</li>
+                        <li class="fragment">naturally unfolding examples</li>
+                        <li class="fragment">don't be lazy e.g. motor cortex used</li>
+                        <li class="fragment">interest driven: fight with the attention selecting mechanism</li>
+                    </ul>
+                </section>
+
+
+                <!--
+                Thanks
+                -->
+                <section>
+                    <p>Big big thank you to Christopher Olah for <a href="https://colah.github.io/">his blog</a> and permission to adapt some of his examples for this talk</p>
+                </section>
+
+
+                <section>
+                    <p style="text-align: left; padding: 10px;">
+                        <i>
+                            Just as there are odors that dogs can smell and we cannot, as well as sounds that dogs can hear and we cannot, so too there are wavelengths of light we cannot see and flavors we cannot taste.
+                        </i>
+                        <br/>
+                        <i>
+                            Why then, given our brains wired the way they are, does the remark “Perhaps there are thoughts we cannot think,” surprise you?
+                        </i>
+                        <br/>
+                        <i>
+                            Evolution, so far, may possibly have blocked us from being able to think in some directions; there could be unthinkable thoughts.
+                        </i>
+                    </p>
+                    <p style="text-align: right;">
+                        Richard Hamming
+                    </p>
+                </section>
+
+
+                <!--
+                References
+                -->
+                <section>
+                    <h3>References</h3>
+                    <ul>
+                        <li>Title slide background video build from: <a href="https://www.youtube.com/watch?v=FZ3401XVYww">The Miracle in Human Brain</a></li>
+                    </ul>
+                </section>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            Reveal.initialize({
+                controls: true,
+                progress: true,
+                history: true,
+                center: true,
+                slideNumber: true,
+                transition: 'slide',
+
+                dependencies: [
+                    {
+                        src: 'lib/js/classList.js',
+                        condition: function() {
+                            return !document.body.classList;
+                        },
+                    },
+                    {
+                        src: 'plugin/markdown/marked.js',
+                        condition: function() {
+                            return !!document.querySelector( '[data-markdown]' );
+                        },
+                    },
+                    {
+                        src: 'plugin/markdown/markdown.js',
+                        condition: function() {
+                            return !!document.querySelector( '[data-markdown]' );
+                        },
+                    },
+                    {
+                        src: 'plugin/highlight/highlight.js',
+                        async: true,
+                        condition: function() {
+                            return !!document.querySelector( 'pre code' );
+                        },
+                        callback: function() {
+                            hljs.initHighlightingOnLoad();
+                        },
+                    },
+                    // {
+                    //     src: 'plugin/zoom-js/zoom.js',
+                    //     async: true,
+                    // },
+                    // {
+                    //     src: 'plugin/notes/notes.js',
+                    //     async: true,
+                    // },
+                ]
+        });
+        </script>
+
+    </body>
+</html>
